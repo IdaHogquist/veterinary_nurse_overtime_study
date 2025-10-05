@@ -16,5 +16,3 @@ The goal was to find out **when overtime happens most often, and why** — uncov
 ## 🗂️ Files included  
 - **Overtime_Analysis.xlsx** – interactive Excel file for data entry and visualisation  
 - **Overtime_Report.pdf** – final written report with analysis, visuals, and recommendations  
-
-✅ *Built entirely in Excel, analysed by me, based on real (anonymised) workplace data.*  
